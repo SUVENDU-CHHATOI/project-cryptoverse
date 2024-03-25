@@ -1,0 +1,10 @@
+In your directory - 
+git clone https://github.com/adrianhajdin/project_cryptoverse.git
+delete '.git' file
+create a new repo in your github
+git init to recreate the '.git' file
+git add .
+git commit -m "initial commit"
+git branch -M main
+git remote add origin https://github.com/SUVENDU-CHHATOI/<NAME-OF-YOUR-NEW-REPO>
+git push -u origin main
